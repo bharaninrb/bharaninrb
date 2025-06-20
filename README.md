@@ -1,4 +1,4 @@
-# 💻 Bharanidharan N R - Founder & CTO | CTO at Dezprox
+# 💻 Bharanidharan N R - Founder & CPO | Cheif Product Officer at Dezprox
 
 Hi there! 👋 I'm **Bharanidharan**, a passionate **UI/UX Designer** with a flair for building engaging, user-centric designs. With expertise in wireframing, prototyping, and visual design, I love creating interfaces that enhance usability and ensure seamless user experiences. 
 
