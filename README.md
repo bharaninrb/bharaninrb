@@ -1,8 +1,8 @@
-# 💻 Bharanidharan N R - UI/UX Designer | Product Designer at Cybernaut Edu Tech
+# 💻 Bharanidharan N R - Founder & CTO | CTO at Dezprox
 
 Hi there! 👋 I'm **Bharanidharan**, a passionate **UI/UX Designer** with a flair for building engaging, user-centric designs. With expertise in wireframing, prototyping, and visual design, I love creating interfaces that enhance usability and ensure seamless user experiences. 
 
-Currently working at **Cybernaut Edu Tech** 🚀, I also freelance, helping brands with intuitive designs and creative solutions.
+Currently working at **Dezprox** 🚀, I also freelance, helping brands with intuitive designs and creative solutions.
 
 ---
 
@@ -22,8 +22,8 @@ Currently working at **Cybernaut Edu Tech** 🚀, I also freelance, helping bran
 ---
 
 ## 💼 Work Experience  
-- **Product Designer**, Cybernaut Edu Tech (Sep 2023 - Present)  
-- **Freelance Designer** (Feb 2024 - Present)  
+- **Product Designer**, Cybernaut Edu Tech (Sep 2024 - Mar 2025)  
+- **Freelance Designer** (Feb 2024 - Aug 2024)  
 - **UI/UX Designer**, PK Innovatives (Nov 2023 - Feb 2024)  
 - **Chief Designer**, Cosmicrafts (Jul 2023 - Oct 2023)
 
